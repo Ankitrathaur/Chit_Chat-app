@@ -153,8 +153,7 @@ AUTHENTICATION_BACKENDS=[
     'allauth.account.auth_backends.AuthenticationBackend',
 ]
 
-# 261094464491-6i9sce0v849lctum6h6bh6evb9oq1a7a.apps.googleusercontent.com
-# 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
+
 
 SOCIALACCOUNT_PROVIDERS= {
     'google': {
